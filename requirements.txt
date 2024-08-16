@@ -1,0 +1,9 @@
+opencv-python
+jupyter
+notebook
+pandas
+matplotlib
+lxml
+scikit-learn
+pytesseract
+flask
